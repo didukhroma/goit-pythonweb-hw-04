@@ -10,11 +10,11 @@ git clone https://github.com/didukhroma/goit-pythonweb-hw-04
 cd goit-pythonweb-hw-04
 ```
 
-```bash
+[Install python](https://www.python.org/downloads/)
+
 [Install poetry](https://python-poetry.org/docs/)
 
 [Install poetry-plugin-shell](https://github.com/python-poetry/poetry-plugin-shell)
-```
 
 ```bash
 poetry shell
